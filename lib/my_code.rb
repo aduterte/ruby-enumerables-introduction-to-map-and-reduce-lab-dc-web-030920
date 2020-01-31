@@ -48,6 +48,7 @@ def reduce_to_total(array, sp)
       total += array[sp]
       sp += 1
     end
+  end
   total
 end
 
