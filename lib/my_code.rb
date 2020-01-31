@@ -68,5 +68,5 @@ def reduce_to_any_true(array)
     end
     i += 1
   end
-  nil
+  false
 end
